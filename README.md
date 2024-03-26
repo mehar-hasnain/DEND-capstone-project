@@ -30,8 +30,6 @@ This warehouse consists of 3 dimensional tables and one staging table. Schemas a
 
 #### Staging table
 
-![DAG_GRAPH](DAG_GRAPH.png)
-
 ##### TABLE staging_restaurants
 
 ~~~
@@ -172,7 +170,7 @@ The successful run of DAG looks like the following:
 
 #### DAG Graph View
 
-
+![DAG_GRAPH](DAG_GRAPH.png)
 
 ### Scenarios
 
